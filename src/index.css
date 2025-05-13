@@ -1,0 +1,11 @@
+@import "tailwindcss";
+
+
+body {
+    display: flex;
+    min-height: 100vh;
+    width: 100%;
+    flex-direction: column;
+    background: linear-gradient(to bottom right, #030712, #111827, #000000);
+    color: #f3f4f6;
+}
